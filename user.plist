@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.company.CRBR-MobilePortal</string>
+				<string>com.cn.michelin.dealerportal</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>欢迎使用此</string>
 				<key>title</key>
-				<string>加盟商平台</string>
+				<string>加盟商平台11</string>
 			</dict>
 		</dict>
 	</array>
